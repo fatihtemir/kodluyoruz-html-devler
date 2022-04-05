@@ -1,18 +1,18 @@
  <h1>Fatih Can Temir</h1>
 
- <h2>Hakkımızda</h2>
+ <h2>Hakkımda</h2>
 <!-- Başlıklar kullanıldı. -->
 
 <p>Merhabalar.Ben Fatih Can Temir.Trabzonda yaşıyorum.Karadeniz Teknik Üniversitesinde Maliye bölümü öğrencisiyim.Günümüz dünyasında hızla gelişen yazılım,web3.0,kripto paralar, blockchain alanında ilgiliyim.</p>
-<p>Kodluyoruz ve Patikadan eğitimler alıp yazılım alanında kendimi geliştirip kariyer yapmak istiyorum. Eğitimler çok güzel teşekkürler.</p>
+<p>Kodluyoruz ve Patikadan eğitimler alıyorum ve  yazılım alanında kendimi geliştirip kariyer yapmak istiyorum. </p>
 <!-- paragraf yapma metodu kullanıldı -->
 <h3>İlgilendiğim Spor Dalları</h3>
-<p>Fitnes</p>
-<p>Futbol</p>
-<p>Boks</p>
+<ul>
+    <li>Futbol</li>
+    <li>Fitness</li>
+    <li>Boks</li>
+</ul>
 <!-- boş satırlar html de yani enterlamak etkisi olmadıgı anlaşıldı. -->
-Bu repoyu [gitub](https://github.com/fatihtemir) profilimden inceleyebilirsiniz.
-
 <h3>Çok severek okuduğum 3 kitap</h3>
 <ul>
     <li><a href="https://www.goodreads.com/book/show/7253391-u-hortumlu-d-nyada-fil-yaln-z-bir-hayvand-r?from_search=true&from_srp=true&qid=WxKCAn08gO&rank=1" target="_blank">  Şu hortumlu dünyada fil yalnız bir hayvandır.</a></li>
