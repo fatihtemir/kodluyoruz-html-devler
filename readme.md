@@ -11,8 +11,6 @@
 <p>Futbol</p>
 <p>Boks</p>
 <!-- boş satırlar html de yani enterlamak etkisi olmadıgı anlaşıldı. -->
-Bu repoyu [gitub](https://github.com/fatihtemir) profilimden inceleyebilirsiniz.
-
 <h3>Çok severek okuduğum 3 kitap</h3>
 <ul>
     <li><a href="https://www.goodreads.com/book/show/7253391-u-hortumlu-d-nyada-fil-yaln-z-bir-hayvand-r?from_search=true&from_srp=true&qid=WxKCAn08gO&rank=1" target="_blank">  Şu hortumlu dünyada fil yalnız bir hayvandır.</a></li>
@@ -23,6 +21,6 @@ Bu repoyu [gitub](https://github.com/fatihtemir) profilimden inceleyebilirsiniz.
 <ul>
     <li><a href="https://www.imdb.com/title/tt2820852/?ref_=nv_sr_srsg_8" target="_blank" >Hızlı ve Öfkeli 7</a></li>
     <a href="https://www.imdb.com/title/tt2820852/?ref_=nv_sr_srsg_8"></a>
-    <img src="resim/resim4.jpg" width="200" height="200">
 </ul>
     <!-- görsellerle ve linklerle çalışıldı. -->
+    Bu repoyu [gitub](https://github.com/fatihtemir) profilimden inceleyebilirsiniz.
