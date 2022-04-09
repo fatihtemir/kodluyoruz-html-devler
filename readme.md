@@ -13,14 +13,17 @@
 <!-- boş satırlar html de yani enterlamak etkisi olmadıgı anlaşıldı. -->
 <h3>Çok severek okuduğum 3 kitap</h3>
 <ul>
-    <li><a href="https://www.goodreads.com/book/show/7253391-u-hortumlu-d-nyada-fil-yaln-z-bir-hayvand-r?from_search=true&from_srp=true&qid=WxKCAn08gO&rank=1" target="_blank">  Şu hortumlu dünyada fil yalnız bir hayvandır.</a></li>
-    <li><a href="https://www.goodreads.com/book/show/59993794-bir-borsa-spek-lat-r-n-n-anilari?from_search=true&from_srp=true&qid=nFgxAXtIkW&rank=2" target="_blank"> Bir borsa spekülatörünün anıları</a> </li>
-    <li><a href="https://www.goodreads.com/book/show/3735293-clean-code?from_search=true&from_srp=true&qid=zvNCiBLUvS&rank=1" target="_blank">Clean code </a></li>
+    <li>![gitub](https://www.goodreads.com/book/show/7253391-u-hortumlu-d-nyada-fil-yaln-z-bir-hayvand-r?from_search=true&from_srp=true&qid=WxKCAn08gO&rank=1)  Şu hortumlu dünyada fil yalnız bir hayvandır.</a></li>
+    
+    <li>![github](https://www.goodreads.com/book/show/59993794-bir-borsa-spek-lat-r-n-n-anilari?from_search=true&from_srp=true&qid=nFgxAXtIkW&rank=2) Bir borsa spekülatörünün anıları </li>
+    <li>![github](https://www.goodreads.com/book/show/3735293-clean-code?from_search=true&from_srp=true&qid=zvNCiBLUvS&rank=1)
+    </li>
 </ul>
 <h3>Sevdiğim Film</h3>
 <ul>
-    <li><a href="https://www.imdb.com/title/tt2820852/?ref_=nv_sr_srsg_8" target="_blank" >Hızlı ve Öfkeli 7</a></li>
-    <a href="https://www.imdb.com/title/tt2820852/?ref_=nv_sr_srsg_8"></a>
+    <li>![github](ttps://www.imdb.com/title/tt2820852/?ref_=nv_sr_srsg_8) Hızlı ve öfkeli 7
+    </li>
+    
 </ul>
     <!-- görsellerle ve linklerle çalışıldı. -->
-    Bu repoyu [gitub](https://github.com/fatihtemir) profilimden inceleyebilirsiniz.
+    Bu repoyu [gitub profil](https://github.com/fatihtemir) profilimden inceleyebilirsiniz.
